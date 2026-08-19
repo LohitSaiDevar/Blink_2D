@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de8f591f2e35eac4c8d4615b2394900d, type: 3}
+  m_Name: Readme
+  m_EditorClassIdentifier: 
+  Title: README
+  Description: '
+
+    Control Scheme for designers'
+  Controls:
+  - Action: Move Left
+    Key: A
+  - Action: Move RIght
+    Key: D
+  - Action: Jump
+    Key: Space
+  - Action: Toggle Crouch
+    Key: C
+  - Action: Dash
+    Key: Move + L-Shift
+  - Action: Climb Ledge (While Hanging)
+    Key: Space
+  - Action: Toggle Aim
+    Key: F
+  - Action: Shoot Ball (While Aiming)
+    Key: LMB

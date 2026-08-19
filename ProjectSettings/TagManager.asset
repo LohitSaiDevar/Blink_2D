@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - HangCheck
+  - Lift
+  - Obstacle
+  - Ground
+  - Ball
+  - Ricochet
+  - Dark
+  - RicochetAngled
+  - Orb
+  - Music
+  - Tutorial
+  - FirstTimeTutorial
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Ledge
+  - Barrier
+  - Player
+  - Lift
+  - Ball
+  - Dungeon
+  - Forest
+  - Lava
+  - Tutorial
+  - WorldUI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
